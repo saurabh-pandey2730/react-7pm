@@ -37,3 +37,21 @@
     background-color: rgb(203, 203, 203);
     border-radius: 10px;
 }
+.userData{
+    height: 200px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+.permanentEmployee{
+    background-color: rgb(72, 251, 191);
+     height: 200px;
+    width: 300px;
+}
+.notPermanentEmployee{
+    background-color: rgb(239, 79, 79);
+     height: 200px;
+    width: 300px;
+}
